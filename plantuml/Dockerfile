@@ -1,4 +1,4 @@
-FROM frozenbonito/pandoc-eisvogel-ja
+FROM petitstrawberry/pandoc-eisvogel-ja
 
 RUN apk add --no-cache \
     graphviz \
